@@ -1,4 +1,4 @@
-#Polyglot, i18n
+# Polyglot, i18n
 
 This is my demo project about how to use library: polyglot and i18n to convert key
 to multi-language.
@@ -8,12 +8,12 @@ to multi-language.
 * node ^7.8.0
 * npm  ^3.0.0
 
-##Getting Started
+## Getting Started
  
 ### Install from source 
  
 ```bash
-$ git clone http://>
+$ git clone git@github.com:bktSon/multi-language.git
 $ cd <my-project-name>
 ```
 Then install dependencies and check to see it works.
