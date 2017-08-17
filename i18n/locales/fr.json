@@ -1,0 +1,8 @@
+{
+	"404": "404",
+	"greeting": {
+		"placeholder": {
+			"in": "greeting.placeholder.in"
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+  "name": "multilanguage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "express": "^4.15.4",
+    "i18n": "^0.8.3",
+    "lodash": "^4.17.4",
+    "node-polyglot": "^2.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}

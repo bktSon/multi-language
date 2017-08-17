@@ -1,0 +1,28 @@
+{
+	"404": "Brain not found",
+	"%s cat": {
+		"one": "%s cat",
+		"other": "%s cats"
+	},
+	"cat": "cat",
+	"hello": "viet nam cua toi",
+	"dogs": {
+		"one": "one dog",
+		"other": "[0] no dog|[2,5] some dogs|[6,11] many dogs|[12,36] dozens of dogs|a horde of %s dogs|[100,] too many dogs"
+	},
+	"greeting": {
+		"formal": "Hello",
+		"informal": "Hi",
+		"placeholder": {
+			"formal": "Hello %s",
+			"informal": "Hi %s",
+			"in": "Hello {{name}}"
+		}
+	},
+	"greeting.placeholder.informal": "greeting.placeholder.informal",
+	"greeting.placeholder": "greeting.placeholder",
+	"greeting.formal": "greeting.formal",
+	"chao1": "no thing 1",
+	"chao2": "khong co gi ",
+	"chao3": "mot con vit"
+}

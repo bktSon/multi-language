@@ -1,0 +1,17 @@
+{
+	"22": "333",
+	"402": "402",
+	"404": "khong co viec gi kho",
+	"Hello %s, how are you today?": "Hello %s, how are you today?",
+	"greeting": {
+		"placeholder": {
+			"in": "greeting.placeholder.in"
+		}
+	},
+	"greeting.placeholder": "greeting.placeholder",
+	"greeting.placeholder.informal": "greeting.placeholder.informal",
+	"a": "a",
+	"b": "b",
+	"c": "c",
+	"hello": "my best friend"
+}
